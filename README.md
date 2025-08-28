@@ -10,10 +10,4 @@ This is a small beginner-friendly web project built using **HTML** and **CSS**, 
 - 🎨 CSS3
 - 🧠 JavaScript (inline in HTML)
 
----
 
-## 💻 How to Run
-
-1. Download or clone this repository:
-   ```bash
-   git clone https://github.com/hudasudi/Calculator.git
